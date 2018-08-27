@@ -2,9 +2,9 @@
 
 PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and tools.
 
-## PeopleSoft Projects Overview
+## PeopleSoft Experience and Skills Overview
 * All-around developer
-* Production Support for HCM, Finance, and Campus Solutions
+* Production Support for HCM, Finance, ELM, and Campus Solutions
 * PeopleTools 7.5 to 8.56
 * SQR, App Engine, PeopleCode, Application Packages
 * MS SQL Server, Oracle DB
@@ -29,3 +29,6 @@ PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and too
 
 ## Lastly
 I bring the fun in any work environment! Seriously.
+
+---
+(Linkedin)[https://ca.linkedin.com/in/john-eudes-brazal-a676aa54]
