@@ -31,4 +31,4 @@ PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and too
 I bring the fun in any work environment! Seriously.
 
 ---
-(Linkedin)[https://ca.linkedin.com/in/john-eudes-brazal-a676aa54]
+[Linkedin](https://ca.linkedin.com/in/john-eudes-brazal-a676aa54)
