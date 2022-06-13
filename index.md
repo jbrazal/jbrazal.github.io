@@ -4,19 +4,21 @@ PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and too
 
 ## PeopleSoft Experience and Skills Overview
 * All-around developer
-* Production Support for HCM, Finance, ELM, and Campus Solutions
-* PeopleTools 7.5 to 8.56
+* Production Support for PeopleSoft ERP (Human Capital Management, Finance/SCM, Enterprise Learning Management, and Campus Solutions)
+* PeopleTools 7.5 to 8.59
 * SQR, App Engine, PeopleCode, Application Packages
 * MS SQL Server, Oracle DB
 * Built web services both on PeopleSoft and C# 
 
 ## Other Proficiencies
+1.  Julia
+1.  Python
+1.  Powershell/Bash/CMD scripts
 1.  Javascript (Node, Angular, MEAN stack)
 1.  C#/.NET
 1.  Google Apps Script
-1.  Python
 1.  Java
-1.  Powershell/Bash/CMD scripts
+
 
 ## Interests
 * Graphic Design (Processing, Vector Illustration, calligraphy)
