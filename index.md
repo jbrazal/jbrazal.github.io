@@ -1,11 +1,11 @@
 # Jed Brazal
 
-PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and tools.
+PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and tools.  
 
 ## PeopleSoft Experience and Skills Overview
 * All-around developer
 * Production Support for PeopleSoft ERP (Human Capital Management, Finance/SCM, Enterprise Learning Management, and Campus Solutions)
-* PeopleTools 7.5 to 8.59
+* PeopleTools 7.5 to 8.60
 * SQR, App Engine, PeopleCode, Application Packages
 * MS SQL Server, Oracle DB
 * Built web services both on PeopleSoft and C# 
@@ -27,6 +27,7 @@ PeopleSoft Technical Analyst since 2006.  Self-taught in other languages and too
 * Others (Go, No SQL Databases)
 
 ## After Hours
+* Bass player for [D'ERA](https://www.instagram.com/dera.bandofficial/)
 * Bass player for [Random Collection](https://www.reverbnation.com/randomcollection)
 
 ## Lastly
