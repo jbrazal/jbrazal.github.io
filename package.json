@@ -1,0 +1,13 @@
+{
+  "name": "jbrazal-github-io",
+  "version": "1.0.0",
+  "description": "John Eudes Brazal — HRIS Consultant",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

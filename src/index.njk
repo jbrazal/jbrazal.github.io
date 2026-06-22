@@ -1,0 +1,124 @@
+---
+layout: base.njk
+title: "Jed Brazal — HRIS Consultant"
+description: "John Eudes Brazal (Jed) — HRIS Consultant and PeopleSoft Specialist with 19+ years of enterprise HR systems experience."
+---
+
+{% set r = resume %}
+
+<header>
+  <div class="container">
+    <span class="logo">Jed Brazal</span>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#expertise">Expertise</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <span class="hero-eyebrow">HRIS Consultant</span>
+    <h1>{{ r.name }}</h1>
+    <p class="subtitle">{{ r.subtitle }}</p>
+    <p class="tagline">{{ r.tagline }}</p>
+    <div class="hero-ctas">
+      <a href="{{ r.contact.linkedin }}" target="_blank" rel="noopener" class="btn btn-primary">
+        Connect on LinkedIn
+      </a>
+      <a href="#contact" class="btn btn-outline">Get in Touch</a>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="container">
+    <p class="section-label">About</p>
+    <h2 class="section-title">Who I Am</h2>
+    <p class="about-text">{{ r.about }}</p>
+  </div>
+</section>
+
+<section id="expertise" class="alt">
+  <div class="container">
+    <p class="section-label">Expertise</p>
+    <h2 class="section-title">Areas of Specialization</h2>
+    <p class="section-intro">Two decades of hands-on PeopleSoft experience spanning every major pillar of the platform.</p>
+    <div class="cards-grid">
+      {% for item in r.expertise %}
+      <div class="card">
+        <div class="card-icon">{{ item.icon }}</div>
+        <h3>{{ item.area }}</h3>
+        <p>{{ item.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="container">
+    <p class="section-label">Technical Skills</p>
+    <h2 class="section-title">Tools &amp; Technologies</h2>
+    <div class="skills-grid">
+      <div class="skill-group">
+        <h3>PeopleSoft</h3>
+        <div class="tags">
+          {% for skill in r.peoplesoftSkills %}
+          <span class="tag highlight">{{ skill }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3>Databases</h3>
+        <div class="tags">
+          {% for db in r.databases %}
+          <span class="tag">{{ db }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3>Other Technologies</h3>
+        <div class="tags">
+          {% for tech in r.otherTech %}
+          <span class="tag">{{ tech }}</span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="container">
+    <p class="section-label">Beyond the Code</p>
+    <h2 class="section-title">Outside Work</h2>
+    <ul class="personal-list">
+      {% for item in r.personal %}
+      <li>
+        <span class="personal-icon">{{ item.icon }}</span>
+        <div>
+          <strong>{{ item.label }}</strong>
+          <span>{{ item.detail }}</span>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section id="contact" class="cta-section">
+  <div class="container">
+    <h2>Let's Work Together</h2>
+    <p>Looking for an experienced HRIS consultant to help with your next PeopleSoft project? Let's connect.</p>
+    <a href="{{ r.contact.linkedin }}" target="_blank" rel="noopener" class="btn btn-primary">
+      Connect on LinkedIn
+    </a>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; {{ site.year }} {{ r.name }}. All rights reserved.</p>
+</footer>

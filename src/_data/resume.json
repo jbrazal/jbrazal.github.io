@@ -1,0 +1,85 @@
+{
+  "name": "John Eudes Brazal",
+  "nickname": "Jed",
+  "title": "HRIS Consultant",
+  "subtitle": "PeopleSoft Specialist · 19+ Years",
+  "tagline": "Delivering enterprise HR systems solutions across HCM, Finance, Campus Solutions, and ELM since 2006.",
+  "about": "I'm a seasoned HRIS professional and PeopleSoft technical expert with over 19 years of hands-on experience in enterprise HR systems. I bridge the gap between business requirements and technical delivery — designing, developing, and supporting complex PeopleSoft environments for large organizations. From all-around development to production support firefighting, I thrive on solving the hard problems that keep HR running. Beyond PeopleSoft, I bring full-stack development capability and a genuine enthusiasm for technology.",
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/jedbrazal/"
+  },
+  "expertise": [
+    {
+      "icon": "👥",
+      "area": "PeopleSoft HCM",
+      "description": "End-to-end Human Capital Management implementations, upgrades, and support — from Core HR to Benefits, Payroll, and Talent Acquisition."
+    },
+    {
+      "icon": "💼",
+      "area": "Finance & SCM",
+      "description": "Production support and development for PeopleSoft Financial Management and Supply Chain modules, including integrations and reporting."
+    },
+    {
+      "icon": "🎓",
+      "area": "Campus Solutions",
+      "description": "Student Information System development and support, including custom extensions, integrations, and self-service enhancements."
+    },
+    {
+      "icon": "📚",
+      "area": "Enterprise Learning Management",
+      "description": "ELM module development, configuration, and integration support for enterprise-wide training and learning programs."
+    },
+    {
+      "icon": "⚙️",
+      "area": "Technical Architecture",
+      "description": "Web services design and development on both PeopleSoft and .NET platforms, integration frameworks, and application package architecture."
+    },
+    {
+      "icon": "🔧",
+      "area": "Production Support",
+      "description": "Deep experience diagnosing and resolving complex production issues across all PeopleSoft pillars under time-critical conditions."
+    }
+  ],
+  "peoplesoftSkills": [
+    "PeopleTools 7.5 – 8.60",
+    "PeopleCode",
+    "Application Engine",
+    "Application Packages",
+    "SQR",
+    "Component Interface",
+    "Integration Broker",
+    "PS Query",
+    "BI Publisher"
+  ],
+  "databases": [
+    "Oracle DB",
+    "MS SQL Server"
+  ],
+  "otherTech": [
+    "C# / .NET",
+    "JavaScript / Node.js",
+    "Angular / MEAN Stack",
+    "Python",
+    "PowerShell / Bash",
+    "Java",
+    "Google Apps Script",
+    "Julia"
+  ],
+  "personal": [
+    {
+      "icon": "🎸",
+      "label": "Music",
+      "detail": "Bass player for D'ERA and Random Collection"
+    },
+    {
+      "icon": "🎨",
+      "label": "Design",
+      "detail": "Graphic design, vector illustration, and calligraphy using Processing and other tools"
+    },
+    {
+      "icon": "💻",
+      "label": "Development",
+      "detail": "Web, mobile (Android, iOS, Xamarin), and always exploring what's next"
+    }
+  ]
+}
